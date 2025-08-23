@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+websockets
+python-dotenv
+pydantic
+deepagents
+langchain
+langchain-mcp-adapters
