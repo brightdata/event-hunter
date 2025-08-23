@@ -359,7 +359,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **[BrightData](https://brightdata.com)** for providing MCP web scraping capabilities
-- **[DeepAgents](https://github.com/deepagents/deepagents)** for the multi-agent framework
+- **[DeepAgents](https://github.com/langchain-ai/deepagents)** for the multi-agent framework
 - **[LangChain](https://langchain.com)** for LLM orchestration
 - **[FastAPI](https://fastapi.tiangolo.com/)** for the robust backend framework
 - **[React](https://reactjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)** for the modern frontend
