@@ -7,7 +7,6 @@
   [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
   [![FastAPI](https://img.shields.io/badge/FastAPI-0.116+-green.svg)](https://fastapi.tiangolo.com/)
   [![React](https://img.shields.io/badge/React-19.1+-61DAFB.svg)](https://reactjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.8+-blue.svg)](https://www.typescriptlang.org/)
 </div>
 
 ## 🌟 Overview
