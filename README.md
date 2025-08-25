@@ -115,7 +115,7 @@ cp .env.example .env
 Edit `.env` with your credentials:
 ```env
 # BrightData MCP Configuration
-BRIGHTDATA_MCP_TOKEN=your_brightdata_mcp_token_here
+BRIGHTDATA_API_TOKEN=your_brightdata_api_token_here
 
 # Azure OpenAI Configuration  
 OPENAI_API_KEY=your_azure_openai_api_key
@@ -240,7 +240,7 @@ npm run lint     # Run ESLint
 
 | Variable | Description | Required |
 |----------|-------------|----------|
-| `BRIGHTDATA_MCP_TOKEN` | BrightData MCP access token | Yes |
+| `BRIGHTDATA_API_TOKEN` | BrightData API access token | Yes |
 | `OPENAI_API_KEY` | Azure OpenAI API key | Yes |
 | `OPENAI_BASE_URL` | Azure OpenAI endpoint URL | Yes |
 
