@@ -4,8 +4,8 @@
   <img src="event-hunter/src/assets/brightdata.svg" alt="Event Hunter AI" width="200"/>
   <p><em>AI-powered event discovery service that finds industry conferences, hackathons, and networking opportunities</em></p>
   
-  [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-  [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
+  [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-0.116+-green.svg)](https://fastapi.tiangolo.com/)
   [![React](https://img.shields.io/badge/React-19.1+-61DAFB.svg)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.8+-blue.svg)](https://www.typescriptlang.org/)
 </div>
