@@ -4,10 +4,9 @@
   <img src="event-hunter/src/assets/brightdata.svg" alt="Event Hunter AI" width="200"/>
   <p><em>AI-powered event discovery service that finds industry conferences, hackathons, and networking opportunities</em></p>
   
-  [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-  [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
+  [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-0.116+-green.svg)](https://fastapi.tiangolo.com/)
   [![React](https://img.shields.io/badge/React-19.1+-61DAFB.svg)](https://reactjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.8+-blue.svg)](https://www.typescriptlang.org/)
 </div>
 
 ## 🌟 Overview
@@ -115,7 +114,7 @@ cp .env.example .env
 Edit `.env` with your credentials:
 ```env
 # BrightData MCP Configuration
-BRIGHTDATA_MCP_TOKEN=your_brightdata_mcp_token_here
+BRIGHTDATA_API_TOKEN=your_brightdata_api_token_here
 
 # Azure OpenAI Configuration  
 OPENAI_API_KEY=your_azure_openai_api_key
@@ -240,7 +239,7 @@ npm run lint     # Run ESLint
 
 | Variable | Description | Required |
 |----------|-------------|----------|
-| `BRIGHTDATA_MCP_TOKEN` | BrightData MCP access token | Yes |
+| `BRIGHTDATA_API_TOKEN` | BrightData API access token | Yes |
 | `OPENAI_API_KEY` | Azure OpenAI API key | Yes |
 | `OPENAI_BASE_URL` | Azure OpenAI endpoint URL | Yes |
 
@@ -359,7 +358,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **[BrightData](https://brightdata.com)** for providing MCP web scraping capabilities
-- **[DeepAgents](https://github.com/deepagents/deepagents)** for the multi-agent framework
+- **[DeepAgents](https://github.com/langchain-ai/deepagents)** for the multi-agent framework
 - **[LangChain](https://langchain.com)** for LLM orchestration
 - **[FastAPI](https://fastapi.tiangolo.com/)** for the robust backend framework
 - **[React](https://reactjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)** for the modern frontend
